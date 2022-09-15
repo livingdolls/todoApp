@@ -9,6 +9,6 @@
 ![alt text](https://raw.githubusercontent.com/livingdolls/todoApp/main/src/img/TodoHome.png)
 
 **How To Install**
-1. Clone Aoo
+1. Clone App
 2. Open Terminal
 3. npx start / yarn start
